@@ -1,0 +1,365 @@
+{
+  "cities": ["Москва", "Санкт-Петербург", "Сочи", "Калуга", "Екатеринбург"],
+  "cards": [
+    {
+      "id": "0d20a129bdbfff47fde08eae",
+      "name": "Fantastic Granite Computer",
+      "type": "магазины",
+      "image": "https://s3-alpha-sig.figma.com/img/a3d8/167b/73b130e323b970e6273c3974733da144?Expires=1693785600&Signature=i2F8AYx-fjtpqpHKdtF6hG8fepT6ata4rcNJUkbCvSPQU~W4PNG2gySTBZENy6LLovf0p7lSfPoHFs62NRK0RdTV9LmwUMTQhIcaE4aQN9PtDLwJShFhc~lMoUtnJ0wMBR1elzxjgf6j7RtsbMWYX8LPobHU1bDpMKt2dd-h0cQpkzwRwpJnhk19KeKu9MVVC-hJYuXUP1Fjpb~McsYOJw0vq~DK8SpDvwrK3AlSiEmOv8d3bkFTojmvXJIlRzTklpetJZPV-15kC7KQ3PJj0XtTGoctmw3dXBwaKcIP5vMt9bLhm8ZzsGgysFhfCpkiomdrOvfZr4h4LXDcQ7GOdQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "7 сентября",
+      "timeDuration": "16:00 - 22:00",
+      "duration": "2 часа 25 минут",
+      "description": "Possimus vitae aut id architecto. Eveniet voluptatibus eaque corrupti fuga quod. Voluptatum quisquam tempora tempora placeat quo quidem eum accusantium libero.<br/><br/>Provident eveniet ducimus accusamus earum suscipit consectetur et dolores. Nihil dolor sunt totam eius doloremque similique asperiores. Asperiores inventore debitis provident nostrum delectus optio.<br/><br/>Temporibus nihil corporis quo maxime. Esse dicta sit odio quidem beatae veritatis. At aliquam sed quisquam autem consequuntur expedita expedita.",
+      "price": "500",
+      "placeName": "Clothing",
+      "phone": "1-949-655-8254 x93508",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Санкт-Петербург",
+      "location": [
+        {
+          "address": "улица Красного Текстильщика, 13АЗ, Санкт-Петербург, 191124",
+          "coordinates": "59.939099, 30.391605"
+        },
+        {
+          "address": "Кавалергардская улица, 4",
+          "coordinates": "59.943142, 30.382299"
+        },
+        {
+          "address": "Тверская улица, 10, Санкт-Петербург, 191124",
+          "coordinates": "59.947104, 30.381876"
+        }
+      ]
+    },
+    {
+      "id": "5b10ab88bcabc6412cceceaf",
+      "name": "Small Soft Computer",
+      "type": "доставка",
+      "image": "https://s3-alpha-sig.figma.com/img/2e00/dc0a/589fb2c6fb0efa64868a9adee7c77556?Expires=1693785600&Signature=ScduReS-RVheDGi8gCAeQLOZEUchwtr9UA2JBLa4RsQS5TBwvPWGPU3I2p~yeZ2l3wfdBv3YV-UQh~uF2IIGGADvPGkip-xHAUDN3x~Nv46vu-tzLRdXb3urop9BCKbK2cn0xQ5-2QDooEE9NMLWZH8uKxmpxJUtND5iJ6uTwXCxo137DcMPZGXR3u2Z5W0zewem~GZjMv1qRfPxT7ImMKE~2anqLmGm8SrbxwFQTMfeX-1Jc95Fg8Z7-Ue4fcl7-d4h89be6oQR~ZsgcTRxggzaeM0qD7VCZtP5hu0O7PV2oG9VAzmYefyYfehfk-BbwAcAKbhEwPxLOPk~4WpDRQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "11 сентября",
+      "timeDuration": "19:00 - 21:00",
+      "duration": "3 часа 30 минут",
+      "description": "Consectetur nobis ipsa. Numquam illo maiores nemo esse doloremque saepe. Corrupti cupiditate voluptatem consequatur tempora ex quis dolor minima consequuntur.<br/><br/>Molestias est qui dolorum inventore architecto. Saepe fugit tempora asperiores. Repudiandae cupiditate iure.<br/><br/>Nihil esse aspernatur animi numquam. Voluptatibus voluptate quo earum ducimus quibusdam. Officiis illum omnis sapiente atque porro rerum debitis quaerat.",
+      "price": "500",
+      "placeName": "Kids",
+      "phone": "(496) 515-2594",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Москва",
+      "location": [
+        {
+          "address": "Шелепихинское шоссе, 11к1, Москва, 123290",
+          "coordinates": "55.757491, 37.521758"
+        },
+        {
+          "address": "2-я Магистральная улица, 6с2, Москва, 123290",
+          "coordinates": "55.765240, 37.532924"
+        },
+        {
+          "address": "Беговая улица, 22с24, Москва, 125284",
+          "coordinates": "55.777312, 37.566943"
+        }
+      ]
+    },
+    {
+      "id": "090cfcf9bedf6ba9bb0e835d",
+      "name": "Gorgeous Plastic Soap",
+      "type": "кафе",
+      "image": "https://s3-alpha-sig.figma.com/img/e39e/8b1a/386c081d5e1dfdd5e5b47cc12a0de888?Expires=1693785600&Signature=TTavQXaGrN3yaxzKCwg6NRL6vBeQ9kPUNN-nM~vrD6JvRRXgxOFBflMtlb-3MflzWpO2P2Zpg99wtPv6MCj-A6uETa2uPQG7FFOd~eyAsGesbIst9Duu0WCehjCnUfZx4iyLWEkugDyjpmQZh4IuEyj2HVaGEJk2gdgYtIDzNl4RZkdmK4CgCO289YteZ~To0iXT31LSXRTxWepr-54N67TNBIasc30ZP63hwyQ591Gy1GwPP-m~DQRImY2BK2RAUA9wjXelODas2fz~LAC2XlCo-t6XrSEdt8gvrcv-v~8KGsrV5LcsfnpMm~bGgEcWJ-gd91KFxUrtbceyolMsaA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "9 сентября",
+      "timeDuration": "13:00 - 14:10",
+      "duration": "1 час 30 минут",
+      "description": "Voluptatibus officia beatae doloremque reiciendis similique ab at. Libero dolores assumenda. Reprehenderit voluptatibus adipisci veritatis possimus consequuntur nam.<br/><br/>Placeat praesentium delectus aut inventore expedita porro blanditiis harum. Nam consequuntur illo neque fuga laborum aliquam sint totam mollitia. Veniam sequi odio quidem totam fuga.<br/><br/>Error reprehenderit minima. Facilis incidunt dicta vel quidem veritatis eius. Vel labore doloribus sit rem.",
+      "price": "500",
+      "placeName": "Movies",
+      "phone": "367-841-6812 x1244",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Москва",
+      "location": [
+        {
+          "address": "Печорская улица, 9, Москва, 129344",
+          "coordinates": "55.863454, 37.667034"
+        },
+        {
+          "address": "Сухонская улица, 11, Москва, 127642",
+          "coordinates": "55.878349, 37.653694"
+        },
+        {
+          "address": "проезд Шокальского, 45к2, Москва, 127221",
+          "coordinates": "55.882808, 37.653640"
+        },
+        {
+          "address": "Студёный проезд, 4к2, Москва, 127282",
+          "coordinates": "55.892223, 37.655230"
+        },
+        {
+          "address": "улица Адмирала Макарова, 33, Москва, 125212",
+          "coordinates": "55.835548, 37.488799"
+        }
+      ]
+    },
+    {
+      "id": "cbb9698dbb93cb2ea0da528d",
+      "name": "Small Plastic Shoes",
+      "type": "доставка",
+      "image": "https://s3-alpha-sig.figma.com/img/a3d8/167b/73b130e323b970e6273c3974733da144?Expires=1693785600&Signature=i2F8AYx-fjtpqpHKdtF6hG8fepT6ata4rcNJUkbCvSPQU~W4PNG2gySTBZENy6LLovf0p7lSfPoHFs62NRK0RdTV9LmwUMTQhIcaE4aQN9PtDLwJShFhc~lMoUtnJ0wMBR1elzxjgf6j7RtsbMWYX8LPobHU1bDpMKt2dd-h0cQpkzwRwpJnhk19KeKu9MVVC-hJYuXUP1Fjpb~McsYOJw0vq~DK8SpDvwrK3AlSiEmOv8d3bkFTojmvXJIlRzTklpetJZPV-15kC7KQ3PJj0XtTGoctmw3dXBwaKcIP5vMt9bLhm8ZzsGgysFhfCpkiomdrOvfZr4h4LXDcQ7GOdQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "6 сентября",
+      "timeDuration": "16:00 - 22:00",
+      "duration": "1 час 10 минут",
+      "description": "Eligendi esse tenetur rem quibusdam ipsa. Vel id optio corrupti repellat. Sed sapiente ab suscipit dignissimos.<br/><br/>Dolor aperiam beatae error magnam maxime facilis deleniti numquam possimus. Commodi ex quas. Libero aut exercitationem minus vitae minima quis saepe hic.<br/><br/>Itaque mollitia iste modi impedit deserunt repellendus laborum. Quae optio est esse libero omnis voluptatum praesentium modi nemo. Recusandae aspernatur rerum ea minus eius ex unde.<br/><br/>Et placeat voluptate. At eum aspernatur placeat doloribus laudantium illo officia. Laborum aliquid nulla magni inventore hic minus.<br/><br/>Labore odio quaerat vitae totam tempora. Enim quas at dolorum quas tenetur eaque facere atque quia. Temporibus accusamus accusamus.",
+      "price": "2500",
+      "placeName": "Jewelery",
+      "phone": "889.763.3071 x610",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Москва",
+      "location": [
+        {
+          "address": "Складочная улица, 1Ас1, Москва, 127018",
+          "coordinates": "55.798814, 37.593228"
+        },
+        {
+          "address": "Шереметьевская улица, 43, Москва, 127521",
+          "coordinates": "55.808553, 37.613907"
+        },
+        {
+          "address": "Шереметьевская улица, 85с3, Москва, 129075",
+          "coordinates": "55.811255, 37.616458"
+        },
+        {
+          "address": "Прудовой проезд, 3Бс2, Москва, 129075",
+          "coordinates": "55.813835, 37.612730"
+        },
+        {
+          "address": "улица Академика Королёва, 11, Москва, 129515",
+          "coordinates": "55.820602, 37.621543"
+        }
+      ]
+    },
+    {
+      "id": "fab08d6eaf9adb59d33ddbaf",
+      "name": "Practical Granite Soap",
+      "type": "мастер-классы",
+      "image": "https://s3-alpha-sig.figma.com/img/a3d8/167b/73b130e323b970e6273c3974733da144?Expires=1693785600&Signature=i2F8AYx-fjtpqpHKdtF6hG8fepT6ata4rcNJUkbCvSPQU~W4PNG2gySTBZENy6LLovf0p7lSfPoHFs62NRK0RdTV9LmwUMTQhIcaE4aQN9PtDLwJShFhc~lMoUtnJ0wMBR1elzxjgf6j7RtsbMWYX8LPobHU1bDpMKt2dd-h0cQpkzwRwpJnhk19KeKu9MVVC-hJYuXUP1Fjpb~McsYOJw0vq~DK8SpDvwrK3AlSiEmOv8d3bkFTojmvXJIlRzTklpetJZPV-15kC7KQ3PJj0XtTGoctmw3dXBwaKcIP5vMt9bLhm8ZzsGgysFhfCpkiomdrOvfZr4h4LXDcQ7GOdQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 сентября",
+      "timeDuration": "15:30 - 18:30",
+      "duration": "2 часа 25 минут",
+      "description": "Deleniti illo officiis voluptate aut illum. Delectus placeat hic itaque magnam sunt magnam amet. Sit quibusdam quibusdam aliquid.<br/><br/>Dolorum sunt libero possimus fugiat minima. Incidunt eos incidunt modi hic. Nemo quasi ab quis cum ex debitis aperiam.<br/><br/>Vero officia qui ut repellat a vel qui. Dolores reprehenderit neque expedita impedit rem optio. Eos magni fugiat nesciunt nobis deleniti placeat assumenda.",
+      "price": "2000",
+      "placeName": "Industrial",
+      "phone": "1-690-978-5765",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Москва",
+      "location": [
+        {
+          "address": "проезд Серебрякова, 14с5, Москва, 129343",
+          "coordinates": "55.846982, 37.658185"
+        },
+        {
+          "address": "улица Амундсена, 3к1, Москва, 129343",
+          "coordinates": "55.850459, 37.658077"
+        },
+        {
+          "address": "Енисейская улица, 4, Москва, 129344",
+          "coordinates": "55.858544, 37.661689"
+        },
+        {
+          "address": "Радужная улица, 14к2, Москва, 129344",
+          "coordinates": "55.860848, 37.667240"
+        }
+      ]
+    },
+    {
+      "id": "033752e6b1a8eff1ab337830",
+      "name": "Bespoke Granite Shoes",
+      "type": "магазины",
+      "image": "https://s3-alpha-sig.figma.com/img/7757/64eb/a164910d18475e81c5fd67bd8bb24572?Expires=1693785600&Signature=Do5qQIOyc-B2B5asHVNq4knbdrakXEr0q5F6IfwDnyaisc~gE1~h5l6dp01j~z7YJqm3S6bNLIfo9-IviaywyHKSf5bzukrX1cChQQyyRcj4eGWUgA5jtnYJAmGLhPrA90sWiLbNB7kNGqixPOvNHG2ve7QLlzPaRXFpYLndezN8XMEA5BvC21Mz5cqKNnNHle3qJU5UsDzEO8XD0aVA47u4N36P6pRsQUfS1nvxm29e9647gGdtqmMVh80BDgKDV1-~SamHv~QUS16Ky3Z4zfmZ4orwCe7AgKuOR1uZFFr3FuRa0y~1gy457W48g3Madog1zYU3bC5YQDW2jJkUrw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "7 сентября",
+      "timeDuration": "13:30 - 15:00",
+      "duration": "1 час 10 минут",
+      "description": "Non eos quisquam reiciendis eaque laborum. Ipsam voluptas magnam fugiat provident. Nulla incidunt magni eius.<br/><br/>Nostrum non quia veniam vitae fuga tempora provident ipsum corrupti. Praesentium eveniet blanditiis ipsum odit sit id cupiditate. Mollitia explicabo inventore tempora dicta.<br/><br/>Doloremque ad officiis ea voluptas quisquam libero expedita culpa. Veniam laudantium iure ab occaecati quam nihil incidunt nulla aspernatur. Voluptatibus autem facilis reiciendis tempore.",
+      "price": "1000",
+      "placeName": "Kids",
+      "phone": "1-565-968-9737",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Москва",
+      "location": [
+        {
+          "address": "Складочная улица, 1Ас1, Москва, 127018",
+          "coordinates": "55.798814, 37.593228"
+        },
+        {
+          "address": "Шереметьевская улица, 43, Москва, 127521",
+          "coordinates": "55.808553, 37.613907"
+        },
+        {
+          "address": "Шереметьевская улица, 85с3, Москва, 129075",
+          "coordinates": "55.811255, 37.616458"
+        },
+        {
+          "address": "Прудовой проезд, 3Бс2, Москва, 129075",
+          "coordinates": "55.813835, 37.612730"
+        },
+        {
+          "address": "улица Академика Королёва, 11, Москва, 129515",
+          "coordinates": "55.820602, 37.621543"
+        }
+      ]
+    },
+    {
+      "id": "30e258d86bb93cb2fcf18fa3",
+      "name": "Fantastic Fresh Ball",
+      "type": "музеи",
+      "image": "https://s3-alpha-sig.figma.com/img/7757/64eb/a164910d18475e81c5fd67bd8bb24572?Expires=1693785600&Signature=Do5qQIOyc-B2B5asHVNq4knbdrakXEr0q5F6IfwDnyaisc~gE1~h5l6dp01j~z7YJqm3S6bNLIfo9-IviaywyHKSf5bzukrX1cChQQyyRcj4eGWUgA5jtnYJAmGLhPrA90sWiLbNB7kNGqixPOvNHG2ve7QLlzPaRXFpYLndezN8XMEA5BvC21Mz5cqKNnNHle3qJU5UsDzEO8XD0aVA47u4N36P6pRsQUfS1nvxm29e9647gGdtqmMVh80BDgKDV1-~SamHv~QUS16Ky3Z4zfmZ4orwCe7AgKuOR1uZFFr3FuRa0y~1gy457W48g3Madog1zYU3bC5YQDW2jJkUrw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "12 сентября",
+      "timeDuration": "13:00 - 14:10",
+      "duration": "1 час 10 минут",
+      "description": "Quaerat itaque autem ad explicabo quia aperiam repellat incidunt. Quibusdam minus consectetur temporibus veritatis explicabo dolorum. Rem rem quas similique nisi necessitatibus.<br/><br/>Aliquam molestias reprehenderit. Consectetur doloremque laborum asperiores. Magnam accusantium quisquam recusandae omnis delectus.<br/><br/>Asperiores necessitatibus mollitia magni optio modi ipsa debitis. Tempore laboriosam animi doloremque. Explicabo laborum laboriosam.<br/><br/>Sint totam eligendi magni ab placeat. Quos vero explicabo perferendis dignissimos aspernatur at unde. Reprehenderit facere quae sint numquam sunt.",
+      "price": "2000",
+      "placeName": "Home",
+      "phone": "(993) 514-5693 x043",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Екатеринбург",
+      "location": [
+        {
+          "address": "улица Маяковского, 29, Екатеринбург, Свердловская область, 620041",
+          "coordinates": "56.864817, 60.623930"
+        },
+        {
+          "address": "Кислородная улица, 8, Екатеринбург, Свердловская область, 620041",
+          "coordinates": "56.863040, 60.614902"
+        },
+        {
+          "address": "проспект Космонавтов, 10, Екатеринбург, Свердловская область, 620017",
+          "coordinates": "56.866927, 60.614039"
+        }
+      ]
+    },
+    {
+      "id": "c5cec1bdc1108ea4d0ec25a7",
+      "name": "Incredible Concrete Chicken",
+      "type": "кафе",
+      "image": "https://s3-alpha-sig.figma.com/img/2e00/dc0a/589fb2c6fb0efa64868a9adee7c77556?Expires=1693785600&Signature=ScduReS-RVheDGi8gCAeQLOZEUchwtr9UA2JBLa4RsQS5TBwvPWGPU3I2p~yeZ2l3wfdBv3YV-UQh~uF2IIGGADvPGkip-xHAUDN3x~Nv46vu-tzLRdXb3urop9BCKbK2cn0xQ5-2QDooEE9NMLWZH8uKxmpxJUtND5iJ6uTwXCxo137DcMPZGXR3u2Z5W0zewem~GZjMv1qRfPxT7ImMKE~2anqLmGm8SrbxwFQTMfeX-1Jc95Fg8Z7-Ue4fcl7-d4h89be6oQR~ZsgcTRxggzaeM0qD7VCZtP5hu0O7PV2oG9VAzmYefyYfehfk-BbwAcAKbhEwPxLOPk~4WpDRQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "11 сентября",
+      "timeDuration": "13:00 - 14:10",
+      "duration": "2 часа 25 минут",
+      "description": "Est commodi minus modi dolorem quos aliquam. Iusto quasi ut. Vero delectus consequuntur velit occaecati officiis quasi.<br/><br/>Laboriosam iusto laudantium praesentium. Iusto vel nostrum eveniet qui praesentium debitis. Unde inventore quidem velit explicabo expedita repellat corporis eos eius.<br/><br/>Animi deserunt aspernatur placeat qui recusandae sit. Qui dolorem voluptate ad impedit earum omnis occaecati quas. Error sequi ratione error ipsum cumque facere quisquam assumenda.",
+      "price": "500",
+      "placeName": "Movies",
+      "phone": "(805) 217-7098 x096",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Москва",
+      "location": [
+        {
+          "address": "проезд Серебрякова, 14с5, Москва, 129343",
+          "coordinates": "55.846982, 37.658185"
+        },
+        {
+          "address": "улица Амундсена, 3к1, Москва, 129343",
+          "coordinates": "55.850459, 37.658077"
+        },
+        {
+          "address": "Енисейская улица, 4, Москва, 129344",
+          "coordinates": "55.858544, 37.661689"
+        },
+        {
+          "address": "Радужная улица, 14к2, Москва, 129344",
+          "coordinates": "55.860848, 37.667240"
+        }
+      ]
+    },
+    {
+      "id": "51cf9b1c1d531f7467c93dff",
+      "name": "Small Frozen Salad",
+      "type": "кафе",
+      "image": "https://s3-alpha-sig.figma.com/img/2e00/dc0a/589fb2c6fb0efa64868a9adee7c77556?Expires=1693785600&Signature=ScduReS-RVheDGi8gCAeQLOZEUchwtr9UA2JBLa4RsQS5TBwvPWGPU3I2p~yeZ2l3wfdBv3YV-UQh~uF2IIGGADvPGkip-xHAUDN3x~Nv46vu-tzLRdXb3urop9BCKbK2cn0xQ5-2QDooEE9NMLWZH8uKxmpxJUtND5iJ6uTwXCxo137DcMPZGXR3u2Z5W0zewem~GZjMv1qRfPxT7ImMKE~2anqLmGm8SrbxwFQTMfeX-1Jc95Fg8Z7-Ue4fcl7-d4h89be6oQR~ZsgcTRxggzaeM0qD7VCZtP5hu0O7PV2oG9VAzmYefyYfehfk-BbwAcAKbhEwPxLOPk~4WpDRQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "6 сентября",
+      "timeDuration": "13:30 - 15:00",
+      "duration": "1 час 30 минут",
+      "description": "Animi perferendis fugit dignissimos quos nemo veritatis eaque autem excepturi. Eveniet repellendus deserunt hic. Necessitatibus iste consectetur quod distinctio temporibus.<br/><br/>Voluptas eveniet placeat corporis perferendis. Eius qui architecto consectetur nihil possimus error. Quidem sequi ad eius repudiandae corporis.<br/><br/>Recusandae sapiente beatae qui sit dicta rem harum suscipit. Odit iusto voluptates at iure atque. Earum ab cupiditate repellat et in debitis.<br/><br/>Eveniet quasi suscipit tempora aspernatur numquam molestias voluptate earum aut. Quae aspernatur velit fuga commodi eaque in temporibus delectus quod. Voluptatibus impedit deleniti odit vero hic asperiores modi.",
+      "price": "1500",
+      "placeName": "Computers",
+      "phone": "(931) 516-2094 x7307",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Сочи",
+      "location": [
+        {
+          "address": "улица Чехова, 29, микрорайон Донская, Сочи, Краснодарский край, 354068",
+          "coordinates": "43.624770, 39.721741"
+        },
+        {
+          "address": "Тоннельная улица, 6Г, микрорайон Завокзальный, Сочи, Краснодарский край, 354030",
+          "coordinates": "43.586935, 39.728496"
+        },
+        {
+          "address": "Альпийская улица, 28/2, Сочи, Краснодарский край, 354030",
+          "coordinates": "43.584434, 39.733060"
+        },
+        {
+          "address": "Севастопольский переулок, 3, Сочи, Краснодарский край, 354057",
+          "coordinates": "43.588946, 39.733141"
+        }
+      ]
+    },
+    {
+      "id": "7cc88bf6d2a0fac607ebbbec",
+      "name": "Modern Rubber Pizza",
+      "type": "музеи",
+      "image": "https://s3-alpha-sig.figma.com/img/a3d8/167b/73b130e323b970e6273c3974733da144?Expires=1693785600&Signature=i2F8AYx-fjtpqpHKdtF6hG8fepT6ata4rcNJUkbCvSPQU~W4PNG2gySTBZENy6LLovf0p7lSfPoHFs62NRK0RdTV9LmwUMTQhIcaE4aQN9PtDLwJShFhc~lMoUtnJ0wMBR1elzxjgf6j7RtsbMWYX8LPobHU1bDpMKt2dd-h0cQpkzwRwpJnhk19KeKu9MVVC-hJYuXUP1Fjpb~McsYOJw0vq~DK8SpDvwrK3AlSiEmOv8d3bkFTojmvXJIlRzTklpetJZPV-15kC7KQ3PJj0XtTGoctmw3dXBwaKcIP5vMt9bLhm8ZzsGgysFhfCpkiomdrOvfZr4h4LXDcQ7GOdQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "6 сентября",
+      "timeDuration": "19:00 - 21:00",
+      "duration": "1 час 10 минут",
+      "description": "Velit ad dicta possimus. Ipsam laudantium beatae dolores delectus sapiente harum delectus. Optio molestiae architecto alias quo officiis odit.<br/><br/>Magni omnis labore quas laudantium itaque ratione nobis minima. Doloremque saepe fuga mollitia voluptas pariatur atque illum. Ipsa deleniti voluptatibus accusamus pariatur placeat temporibus praesentium natus.<br/><br/>Debitis magnam quod ducimus ipsum cumque odio libero aliquam. Mollitia laboriosam iste culpa. Beatae quo incidunt vel aliquid quae.",
+      "price": "500",
+      "placeName": "Kids",
+      "phone": "935.312.4567",
+      "social": {
+        "vk": "https://vk.com/",
+        "tg": "https://telegram.org"
+      },
+      "city": "Москва",
+      "location": [
+        {
+          "address": "проезд Серебрякова, 14с5, Москва, 129343",
+          "coordinates": "55.846982, 37.658185"
+        },
+        {
+          "address": "улица Амундсена, 3к1, Москва, 129343",
+          "coordinates": "55.850459, 37.658077"
+        },
+        {
+          "address": "Енисейская улица, 4, Москва, 129344",
+          "coordinates": "55.858544, 37.661689"
+        },
+        {
+          "address": "Радужная улица, 14к2, Москва, 129344",
+          "coordinates": "55.860848, 37.667240"
+        }
+      ]
+    }
+  ]
+}
